@@ -1,0 +1,9 @@
+/*.gem
+/.bundle/
+/log/
+/tmp/
+/*.rbc
+/.yardoc
+/.coverage
+/.idea/
+/*.swp
