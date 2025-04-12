@@ -34,11 +34,3 @@ To run the tests, follow these steps:
 
 - The tests are written using **Minitest**.
 - The project follows **TDD** principles, so tests are written first, then the code is implemented to pass the tests.
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests with improvements or bug fixes.
-
-## License
-
-This project is open-source and available under the MIT License.
