@@ -34,5 +34,10 @@ class StringCalculatorTest < Minitest::Test
     end
   end
   
+  def test_numbers_greater_than_1000
+    calc = StringCalculator.new
+    assert_equal 2, calc.add("2,1001")
+  end
+  
   
 end
